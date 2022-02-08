@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\dist\\css"
+		},
+		{
+			"path": "..\\..\\dist\\img"
+		},
+		{
+			"path": "..\\..\\dist\\js"
+		}
+	],
+	"settings": {}
+}
